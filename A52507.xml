@@ -1,0 +1,769 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Names of the Lords and Commons assembled in the pretended Parliament at Oxford, January, 1643 together with a Catalogue of such noblemen and barons in order as they have been made since the great seal deserted the Parliament which seal was broken before the Lords and Commons on Tuesday the 11th of August, 1646.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52507</idno>
+            <idno type="STC">Wing N138</idno>
+            <idno type="STC">ESTC R23905</idno>
+            <idno type="EEBO-CITATION">07918859</idno>
+            <idno type="OCLC">ocm 07918859</idno>
+            <idno type="VID">40461</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40461)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1153:11 or 1219:4b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Names of the Lords and Commons assembled in the pretended Parliament at Oxford, January, 1643 together with a Catalogue of such noblemen and barons in order as they have been made since the great seal deserted the Parliament which seal was broken before the Lords and Commons on Tuesday the 11th of August, 1646.</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Harper for Thomas Walkley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This work appears on reel 1153:11, and on reel 1219:4 bound with: A new catalogue of the Lords and Commons of this Parliament. London : Printed for Thomas Walkley, 1646 (Wing W465A).</note>
+                  <note>Reproduction of originals in the Huntington Library and the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40461:1"/>
+            <pb facs="tcp:40461:1"/>
+            <p>THE NAMES OF THE LORDS and COMMONS Aſſembled in the Pretended <hi>PARLIAMENT</hi> at Oxford, <hi>Ianuary</hi> 1643.</p>
+            <p>Together, with a CATALOGVE of ſuch Noblemen and Barons, in order as they have been made, ſince the great Seal deſerted the Parlia<g ref="char:EOLhyphen"/>ment, which Seal was broken before the Lords and Commons, on Tueſday the 11. of Auguſt, 1646.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Harper,</hi> for <hi>Thomas Walkley,</hi> and are to be ſold at his ſhop, at the golden Peſtle and Morter, between York Houſe and Charing Croſſe<g ref="char:punc">▪</g> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="lists">
+            <pb facs="tcp:40461:2"/>
+            <pb n="1" facs="tcp:40461:2" rendition="simple:additions"/>
+            <head>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Names of the <hi>LORDS</hi> and <hi>COMMONS</hi> of the pretended <hi>Parliament</hi> aſſembled at Oxford, January 1643.</head>
+            <list>
+               <item>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES</hi> P.</item>
+               <item>
+                  <hi>YORKE.</hi>
+               </item>
+               <item>
+                  <hi>C<g ref="char:V">Ʋ</g>MBERL.</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w. Littleton <hi>C. S.</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a. Cottington.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Richmond.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Hertford.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lindſey.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dorſet.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Shrewsbury.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Bath.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Southampton.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Leiceſter.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Northampton.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Devonſhire.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Carlile.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Briſtoll.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Barkſhire.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cleveland.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Rivers.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dover.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Peterborough,</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Kingſton.</item>
+               <item>E. Newport.</item>
+               <item>E. Portland.</item>
+               <item>V. Conway.</item>
+               <item>L. Digby.</item>
+               <item>L. Moubray &amp; Mattravers.</item>
+               <item>L. Wentworth.</item>
+               <item>L. Cromwell.</item>
+               <item>L. Rich.</item>
+               <item>L. Paget.</item>
+               <item>L. Chandoys.</item>
+               <item>L. Howard of <hi>Charleton.</hi>
+               </item>
+               <item>L. Lovelace.</item>
+               <item>L. Savile.</item>
+               <item>L. Mohun.</item>
+               <item>L. Dunſmore.</item>
+               <item>L. Seymour.</item>
+               <item>L. Percy.</item>
+               <item>L. Wilmot.</item>
+               <item>L. Leigh.</item>
+               <item>L. Hatton.</item>
+               <item>L. Jermin.</item>
+               <item>L. Carrington.</item>
+               <item>
+                  <pb n="2" facs="tcp:40461:3" rendition="simple:additions"/>John Fettiplace.</item>
+               <item>Alexander Denton.</item>
+               <item>John Packington.</item>
+               <item>Tho. Smith.</item>
+               <item>F. Gamul.</item>
+               <item>Jo. Ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ris.</item>
+               <item>Joſeph Jane.</item>
+               <item>Rich Edgecombe,</item>
+               <item>Jonathan R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhleigh.</item>
+               <item>G. Fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</item>
+               <item>P. Edgecombe.</item>
+               <item>W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. Glanvill.</item>
+               <item>Ro. Holburne.</item>
+               <item>R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Sydenham.</item>
+               <item>Fr. Godolphin.</item>
+               <item>Geo. Parry.</item>
+               <item>Amb. Manaton.</item>
+               <item>Ri. Vyvyan.</item>
+               <item>Jo. Polewheile.</item>
+               <item>John Arundell.</item>
+               <item>Tho. Lower.</item>
+               <item>Edward Hide.</item>
+               <item>William Alleſtree.</item>
+               <item>G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o. Stonehouſe.</item>
+               <item>E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Seymour.</item>
+               <item>P<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r Sainthill.</item>
+               <item>W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. Poole.</item>
+               <item>R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ger Matthew.</item>
+               <item>Ri. Arundell.</item>
+               <item>Ro. Walker.</item>
+               <item>Giles Strangwaies.</item>
+               <item>John Strangwaies.</item>
+               <item>Thomas Hele.</item>
+               <item>Ger. Naper.</item>
+               <item>Sam. Turner.</item>
+               <item>Will. Conſtantine.</item>
+               <item>Hen. Killegrew.</item>
+               <item>R. King.</item>
+               <item>John Dutton.</item>
+               <item>Hen. Bret.</item>
+               <item>Will. Chadwell.</item>
+               <item>Theobald Gorges.</item>
+               <item>John George.</item>
+               <item>Tho. Fanſhaw.</item>
+               <item>Humf. Conningsby.</item>
+               <item>Ri. Seaborne.</item>
+               <item>Arth. Ranelaugh.</item>
+               <item>Tho. Tomkins.</item>
+               <item>Sampſon Evers.</item>
+               <item>John Culpeper.</item>
+               <item>Jeffrey Palmer.</item>
+               <item>John Harriſon.</item>
+               <item>Tho. Fanſhaw.</item>
+               <item>Rog. Palmer.</item>
+               <item>Orlando B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idgeman.</item>
+               <item>Will. Watkins.</item>
+               <item>John Smith.</item>
+               <item>Tho. Bludder.</item>
+               <item>Ed. Littleton.</item>
+               <item>Harvie Bagot.</item>
+               <item>
+                  <pb n="3" facs="tcp:40461:3" rendition="simple:additions"/>Ri. Leveſon.</item>
+               <item>Ri. Cave.</item>
+               <item>Ri. Weſton.</item>
+               <item>Ri. Lee.</item>
+               <item>Tho. Whitmore.</item>
+               <item>Ed. Acton.</item>
+               <item>C. Baldwin.</item>
+               <item>R. Goodwin.</item>
+               <item>Tho. Howard.</item>
+               <item>Tho. Littleton.</item>
+               <item>Ro. Howard.</item>
+               <item>John Meux.</item>
+               <item>Matthew Davis.</item>
+               <item>F. Cornwallis.</item>
+               <item>Tho. Germin.</item>
+               <item>John Taylor.</item>
+               <item>William Baſſet.</item>
+               <item>William Portman.</item>
+               <item>Edw. Rodney.</item>
+               <item>Tho. Hanham.</item>
+               <item>Edw. Philips.</item>
+               <item>John Digby.</item>
+               <item>Ed. Kirton.</item>
+               <item>Chriſto. Lukenor.</item>
+               <item>Edw. Alford.</item>
+               <item>John White.</item>
+               <item>Iohn Aſhbornham.</item>
+               <item>William Smith.</item>
+               <item>Thomas Leeds.</item>
+               <item>I. Thinne</item>
+               <item>Wil. Pleydel.</item>
+               <item>Ro. Hide.</item>
+               <item>Edw. Griffin.</item>
+               <item>Walter Smith.</item>
+               <item>George Lowe.</item>
+               <item>Ric. Harding.</item>
+               <item>Henry Herbert.</item>
+               <item>Endym. Porter.</item>
+               <item>Samuel Sandys.</item>
+               <item>Iohn Bodvill.</item>
+               <item>William Morgan.</item>
+               <item>William Thomas.</item>
+               <item>Iohn Moſtyn.</item>
+               <item>Henry Bellaſis.</item>
+               <item>George Wentworth.</item>
+               <item>William Malory.</item>
+               <item>Richard Aldburgh.</item>
+               <item>John Salisbury.</item>
+               <item>William Herbert.</item>
+               <item>William Price.</item>
+               <item>John Price.</item>
+               <item>R. Herbert.</item>
+               <item>Char. Price.</item>
+               <item>Phil. Warwick.</item>
+               <item>Tho. Cooke.</item>
+               <item>Rob. Crooke.</item>
+               <item>Herb. Price.</item>
+               <item>Iohn Whiſtler.</item>
+            </list>
+            <list>
+               <pb n="4" facs="tcp:40461:4" rendition="simple:additions"/>
+               <head>Theſe <hi>Peeres</hi> following being diſabled by ſeve<g ref="char:EOLhyphen"/>rall accidents, to appear ſooner, have ſince at<g ref="char:EOLhyphen"/>tended.</head>
+               <item>Viſcount Cambden.</item>
+               <item>Lord Aburgaveny.</item>
+               <item>Lord Arundell.</item>
+               <item>Lord Capel.</item>
+               <item>Lord Newport.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Peeres</hi> employed in His Majeſties ſervice, <hi>or,</hi> abſent with leave.</head>
+               <item>Marqueſſe of Wincheſter.</item>
+               <item>Marq. of Worceſter.</item>
+               <item>Marq. of New caſtle.</item>
+               <item>Earle of Darby.</item>
+               <item>Earle of Huntingdon.</item>
+               <item>Earle of Clare.</item>
+               <item>Earle of Marlborough.</item>
+               <item>Viſc. Falkonbridge.</item>
+               <item>Lord Morley.</item>
+               <item>Lord D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cy and Coniers.</item>
+               <item>Lord S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urton.</item>
+               <item>Lord Evers.</item>
+               <item>Lord Daincourt.</item>
+               <item>Lord Pawlet.</item>
+               <item>Lord Brudenell.</item>
+               <item>Lord Poweſſe.</item>
+               <item>L. Herbert of Cherbury.</item>
+               <item>Lord Hopton.</item>
+               <item>Lord Loughborough.</item>
+               <item>Lord Byron.</item>
+               <item>Lord Vaughan.</item>
+               <item>Lord Withrington.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Peers</hi> abſent in the parts beyond the Seas.</head>
+               <item>Earle of Arundell.</item>
+               <item>Earle of St. Albans.</item>
+               <item>L. Viſcount Montague.</item>
+               <item>L. Viſcount Stafford.</item>
+               <item>L. Stanhop.</item>
+               <item>L. Coventry.</item>
+               <item>L. Coring.</item>
+               <item>L. Craven of Hamſted.</item>
+               <item>L. Craven of Ryton.</item>
+            </list>
+            <list>
+               <pb n="5" facs="tcp:40461:4" rendition="simple:additions"/>
+               <head>
+                  <hi>Peeres</hi> confined by the Parliament at Weſtminſter.</head>
+               <item>Earle of Cheſterfield.</item>
+               <item>L. Montague of Boughton.</item>
+            </list>
+            <list>
+               <head>Theſe Members following, being diſabled by ſe<g ref="char:EOLhyphen"/>verall accidents, to appear ſooner, have ſince attended.</head>
+               <item>Peter Venables.</item>
+               <item>Sir John Pawlet.</item>
+               <item>Edward Bagſhaw.</item>
+               <item>Sir John Burlaſey.</item>
+               <item>Francis Newport.</item>
+               <item>Anthony Hungerford.</item>
+               <item>John Ruſſell.</item>
+               <item>Thomas Chichley.</item>
+               <item>Earle of Cork.</item>
+               <item>Sir Gervaſe Clifton.</item>
+               <item>Sir Guy Palmes.</item>
+               <item>Robert Sutton.</item>
+               <item>Gervaſe Hollis.</item>
+               <item>Sir Patricius Curwen.</item>
+               <item>Sir Henry Bellingham.</item>
+               <item>Sir George Dalſton.</item>
+               <item>Sir Thomas Standford.</item>
+               <item>Sir William Dalſton.</item>
+               <item>Michael Wharton.</item>
+               <item>Sir Robert Harton.</item>
+               <item>James Sc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>damore.</item>
+               <item>Sir John Brook.</item>
+               <item>Sir John Stepney.</item>
+            </list>
+            <list>
+               <head>Employed in His Majeſties ſervice, <hi>or</hi> abſent with leave, <hi>or</hi> by ſickneſſe.</head>
+               <item>Sir John Fenick.</item>
+               <item>Hugh Potter.</item>
+               <item>Walter Kyrle.</item>
+               <item>William Stanhop.</item>
+               <item>Sir William Carnaby.</item>
+               <item>Sir Thomas Danby.</item>
+               <item>
+                  <pb n="6" facs="tcp:40461:5" rendition="simple:additions"/>John Fennick.</item>
+               <item>Ralph Sneade.</item>
+               <item>Sir William Ogle.</item>
+               <item>Sir Thomas Jermine.</item>
+               <item>Sir John Stowell.</item>
+               <item>Sir Robert Strickland</item>
+               <item>Sir Philip Maſgrave.</item>
+               <item>John Cowcher.</item>
+               <item>John Coventry.</item>
+               <item>Sir Henry Slingesby.</item>
+               <item>Sir John Malory.</item>
+               <item>John Bellaſis.</item>
+               <item>Sir Thomas Ingram.</item>
+               <item>Lord Mansfeild.</item>
+               <item>Thomas Heblethwait.</item>
+               <item>Sir Hugh Cholmley.</item>
+               <item>Sir George Wentworth.</item>
+               <item>Sir Walter Lloyd.</item>
+               <item>Sir Henry Vaughan.</item>
+               <item>Francis Lloyd.</item>
+               <item>John Vaughan.</item>
+               <item>Richard Ferrers.</item>
+               <item>George Hart<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oll.</item>
+               <item>Sir William Udall.</item>
+               <item>Robert Hunt.</item>
+               <item>Thomas May.</item>
+               <item>Sir Thomas Bowyer.</item>
+               <item>Sir Thomas Roe.</item>
+            </list>
+         </div>
+         <div type="lists">
+            <pb n="7" facs="tcp:40461:5" rendition="simple:additions"/>
+            <list>
+               <head>Anno 18. <hi>Caroli Regis.</hi>
+               </head>
+               <item>
+                  <label>Cumberland.</label> 
+                  <seg rend="decorInit">C</seg>Hriſtopher Lowther Eſq<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re, made Baronet the 11. of June at York.</item>
+               <item>
+                  <label>Weſtmerl.</label> Sir Thomas Alſton made Baronet the 13. of June.</item>
+               <item>
+                  <label>Yorkeſh.</label> Edward Payler Eſquire, made Baronet the 27. of June.</item>
+               <item>
+                  <label>Lancaſh.</label> Sir George Midleton made Baronet the 24. of June.</item>
+               <item>
+                  <label>Yorkeſh.</label> Matthew Walkenburgh Eſquire, made Baronet the 20. of July.</item>
+               <item>
+                  <label>Yorkeſh.</label> Philip Conſtable Eſq. made Baronet the 20. of July.</item>
+               <item>
+                  <label>Cambridgeſh.</label> William Aldington Eſquire, made Baron Al<g ref="char:EOLhyphen"/>dington of Killard the 28. of July.</item>
+               <item>
+                  <label>Northumberland.</label> Sir William Widrington, made Baronet the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9. of Iuly.</item>
+               <item>
+                  <label>Northumberl.</label> Sir Edward Widdrington made Baronet the 8. of Auguſt.</item>
+               <item>
+                  <label>Lincolnſh.</label> Robert Markham Eſquire, made Baronet the 15. of Auguſt.</item>
+               <item>
+                  <label>Yorkeſhire.</label> Philip Hungate Eſq. made Baronet the 15. of Aug.</item>
+               <item>
+                  <label>Dureſme.</label> Ralph Blackſtone made Baronet the 30 of Iuly.</item>
+               <item>
+                  <label>Lincolnſh.</label> Sir William Therold made baronet the 24 of Aug.</item>
+               <item>
+                  <label>Yorkeſh.</label> Walter Rudſton made baronet the 29. of Auguſt. Iames Earl of Ormond made Marqueſſe Ormond the 30. of Auguſt.</item>
+               <item>
+                  <pb n="8" facs="tcp:40461:6" rendition="simple:additions"/>
+                  <label>Warw.</label> Robert Throckmorton made Baronet, the 1. of Sept.</item>
+               <item>
+                  <label>Eſſex.</label> William Halton Eſq. made Baronet the 10. of Septem.</item>
+               <item>
+                  <label>Staff.</label> Walter Wroteſley Eſq. made baronet the 30. of Aug.</item>
+               <item>
+                  <label>Nott.</label> Edward Golding Eſquire made baronet the 27 of Sept.</item>
+               <item>
+                  <label>Corn.</label> William Smith Eſq. made baronet the 27. of Septemb.</item>
+               <item>
+                  <label>Berk.</label> Henry Henne Eſquire, made baronet the 1 of October.</item>
+               <item>
+                  <label>Hertf.</label> Brocket Spencer Eſq. made baronet the 26. of Septem.</item>
+               <item>
+                  <label>Worſt.</label> Walter Blunt Eſq. made Baronet the 5. of October.</item>
+               <item>
+                  <label>Salop.</label> S<hi rend="sup">r</hi> Richard Newport, made Baron Newport of Highar<g ref="char:EOLhyphen"/>call the 14. of October.</item>
+               <item>
+                  <label>Salop.</label> Adam Littleton made baronet the 14. of Octob.</item>
+               <item>
+                  <label>Dunel.</label>
+                  <list>
+                     <item>Thomas Liddell made baronet the 2. of November.</item>
+                     <item>Earle of Worceſter made Marqueſſe of Worceſter, the 2. of November.</item>
+                  </list>
+               </item>
+               <item>
+                  <label>Exon.</label> Richard Lawdy made baronet the 9. of November.</item>
+               <item>
+                  <label>Gloceſt.</label> Sir Iohn Tracy, made Baron and Viſcount Tracy of Ratchule in Ireland, the 12. of Ianuary.</item>
+               <item>
+                  <label>Oxon.</label> Thomas Chamberlaine made baronet the 4. of Febr.</item>
+               <item>
+                  <label>Dunel.</label> Thomas Lord Fauconbridge, made Viſcount Faucon<g ref="char:EOLhyphen"/>bridge of Henknowle the 31. of Ianuary.</item>
+               <item>
+                  <label>Derbyſh.</label> Henry Hunloke made baronet the 28. of February.</item>
+               <item>
+                  <label>Southamp.</label> Thomas Badd made baronet the 28. of Febr.</item>
+               <item>
+                  <label>Salop.</label> Iohn Craven Eſq. made Baron Craven of Ryton the 21. of March.</item>
+               <item>
+                  <label>Northamp.</label> Samuel Danvers made baronet the 21. of March.</item>
+               <item>
+                  <label>Norf.</label> Richard Crane made baronet the 20 of March.</item>
+            </list>
+            <list>
+               <head>Anno 19. <hi>Caroli Regis.</hi> 1643.</head>
+               <item>Henry Lord Spencer made Earle of Sunderland, the 8. of Iune.</item>
+               <item>
+                  <label>Northamp.</label> Henry Percy, made Baron Percy of Anwick, the 28. of Iune.</item>
+               <item>
+                  <label>Oxon.</label> Henry Wilmot made Baron Wilmot of Aderbury the 29 of Iune.</item>
+               <item>
+                  <pb n="9" facs="tcp:40461:6" rendition="simple:additions"/>
+                  <label>Warwick.</label> Sir Thomas Leigh made Baron Leigh of Stoneley the 1. of Iuly.</item>
+               <item>
+                  <label>Carmarth.</label> Sir Henry Iones made baronet the 26. of Iuly.</item>
+               <item>
+                  <label>Northamp.</label>
+                  <list>
+                     <item>Sir Chriſtopher Hatton made Baron Hatton of Kirbe, the 29. of Iuly.</item>
+                     <item>William Vavaſor made baronet the 17. of Iuly.</item>
+                  </list>
+               </item>
+               <item>
+                  <label>Kent.</label> Sir Edward Waldgrave made baronet the 1. of Aug.</item>
+               <item>
+                  <label>Cornw.</label> Sir Ralph Hopton, made Baron Hopton of Stratton, the 4. of September.</item>
+               <item>
+                  <label>Suffolk.</label> Henry Iermin, made Baron Iermin of S<hi rend="sup">t</hi> Edmonds<g ref="char:EOLhyphen"/>bury the 8. of September.</item>
+               <item>
+                  <label>Carmarth.</label>
+                  <list>
+                     <item>Richard Earle of Carbery, made Baron Vaughan of Emlyn, the 25. of October.</item>
+                     <item>William Earl of Newcaſtle, made Marqueſſe of Newcaſtle, the 27. of October.</item>
+                  </list>
+               </item>
+               <item>
+                  <label>Leiceſt.</label> Iohn Pate made baronet the 28 of Octob.</item>
+               <item>
+                  <label>Leiceſt.</label> Henry Haſtings made Baron Loughborough of Lough<g ref="char:EOLhyphen"/>borough the 23. of Octob.</item>
+               <item>
+                  <label>Lancaſh.</label> Sir Iohn Byron, made Baron Byron of Rochdale the 24. of Octob.</item>
+               <item>
+                  <label>Warw.</label> Sir Charles Smith, made Baron Carington of Wotton the 31. of Octob.</item>
+               <item>
+                  <label>Warw.</label> Charles Lord Carrington made Viſcount Carrington of Barrefore in Ireland, the 4. of Novemb.</item>
+               <item>
+                  <label>Northumb.</label> Sr. William Widdrington, made Baron Widdring<g ref="char:EOLhyphen"/>ton of Blaukney the 10. of Novemb.</item>
+               <item>
+                  <label>Lincoln.</label> Willoughby Hickman made baronet the 16. of Nov.</item>
+               <item>
+                  <label>Hertf.</label> Sir George Boteler made baronet the 7. of December.</item>
+               <item>Thomas Bulkley, made Viſcount Bulkley of Caſhells in Ireland the 6. of Ianuary.</item>
+               <item>
+                  <label>Salop.</label> Edward Acton made baronet the 17. of Ianuary.</item>
+               <item>
+                  <label>York.</label>
+                  <list>
+                     <item>Prince Rubert made Earle of Holderneſſe, and Duke of Cumberland, the 24. of Ianuary.</item>
+                     <item>JAMES, ſecond ſon to the Kings Majeſty, made Duke of York the 27. Ianuary.</item>
+                  </list>
+               </item>
+               <item>
+                  <pb n="10" facs="tcp:40461:7" rendition="simple:additions"/>
+                  <label>Warw.</label> Sir Humble Ward made Baron Ward of Birning<g ref="char:EOLhyphen"/>ham the 23. of March.</item>
+               <item>
+                  <label>Somerſ.</label> Sir Francis Hawley made baronet the 14. of March.</item>
+            </list>
+            <list>
+               <head>Anno 20. <hi>Caroli Regis.</hi> 1644.</head>
+               <item>
+                  <label>Lanca.</label> John Preſton made baronet the 1. of April.</item>
+               <item>
+                  <label>Lanca.</label>
+                  <list>
+                     <item>Thomas Preſtrich made baronet the 25. of April.</item>
+                     <item>Thomas Viſcount Savile, made Earle of Suſſex the 25. of May.</item>
+                  </list>
+               </item>
+               <item>
+                  <label>Middleſ.</label>
+                  <list>
+                     <item>Patrick, Earle of Forth, made Earle of Brainford the 27. of May.</item>
+                     <item>Francis, Lord Dunſmore, made Earle of Chicheſter the 3 of Iune.</item>
+                     <item>Thomas, Earle of Arundell and Surrey, made Earle of Norffolk the 6. of Iune.</item>
+                  </list>
+               </item>
+               <item>
+                  <label>Lincoln.</label> Sir Iohn Culpeper, made Baron Culpeper of Thoreſ<g ref="char:EOLhyphen"/>way the 21. of Octob.</item>
+               <item>
+                  <label>Linco.</label> Robert Therold made baronet the 14. of Iune.</item>
+               <item>
+                  <label>Lanca.</label> Gervaſe Lucas made baronet the 14. of May.</item>
+               <item>
+                  <label>Berks.</label> Sir Jacob Aſhley, made Baron Aſhley of Reading the 4. of Novemb.</item>
+               <item>
+                  <label>York.</label>
+                  <list>
+                     <item>Richard, Earle of Cork, made Baron Clifford of Lauſ<g ref="char:EOLhyphen"/>borough, the 4. of Novemb.</item>
+                     <item>George, Lord Goring, made Earle of Norwich the 28. of Novemb.</item>
+                  </list>
+               </item>
+               <item>
+                  <label>Middleſ.</label> Henry Bard made baronet the 8. of Octob.</item>
+               <item>
+                  <label>Breckn.</label> Henry Williams made baronet the 4. of May.</item>
+               <item>
+                  <label>Lincoln.</label> Sir Iohn Brooke, made Baron Cobham the 3. of Ianuary.</item>
+               <item>
+                  <label>Eſſex.</label>
+                  <list>
+                     <item>Sir Iohn Lucas, made Baron Lucas of Shenfield the 3. of Ianuary.</item>
+                     <item>Randolph, Earle of Antrim, made Marqueſſe Antrim in Ireland the 26. of Ianuary.</item>
+                  </list>
+               </item>
+               <item>
+                  <pb n="11" facs="tcp:40461:7" rendition="simple:additions"/>
+                  <label>Lincoln.</label> Iohn Bellaſis, made Baron Bellaſis of Worlaby the 27. of Ianuary.</item>
+               <item>
+                  <label>Northamp.</label>
+                  <list>
+                     <item>Sir Lewis Watſon, made Baron Rockingham of Rockingham the 29 of Ianuary.</item>
+                     <item>William Vancolſter made baronet the 28. of February.</item>
+                     <item>William de Boreel made baronet the 22. of March.</item>
+                     <item>Iohn de Reed, made Baron Reed the 24. of March.</item>
+                     <item>Henry, Earle of Kingſton, made Marqueſſe of Dorcheſter, the 25. of March.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Anno 21. <hi>Caroli Regis.</hi> 1645.</head>
+               <item>George Carter made baronet the 9. of May.</item>
+               <item>Sir Francis Hawley, made Baron Hawley of Duncamour in Ireland the 8. Iuly.</item>
+               <item>Sir Henry bard, made Baron Bard of Drombey, and Viſcount Bellemont the 18. of Iuly.</item>
+               <item>Sir William Brouncker of the Honour of Baron Brounc<g ref="char:EOLhyphen"/>ker of Newcaſtle, and Viſcount Brouncker of Lyons in Ire<g ref="char:EOLhyphen"/>land the 12. of Septemb.</item>
+               <item>
+                  <label>Suffolk.</label> Charles Gerard, made Baron Gerard of Brandon the 8. of Novemb.</item>
+               <item>
+                  <label>Derby.</label> Francis Lord Deincourt, made Earle of Scarſedale the 11. of Novem.</item>
+               <item>
+                  <label>Wiltes.</label> Thomas Windebanck made baronet the 25. of Nov.</item>
+               <item>
+                  <label>Notting.</label>
+                  <list>
+                     <item>Robert Sutton made Baron Lexington of Aram. the 21. Novemb.</item>
+                     <item>Sir William Ogle, made Viſcount Ogle of Caterlough in Ireland, the 23. of Decemb.</item>
+                  </list>
+               </item>
+               <item>
+                  <label>Berks.</label> Charles, Lord Aubigny, made Baron Stuart of New<g ref="char:EOLhyphen"/>bery, Staff. and Earle of Lichfield the 10. of Decemb.</item>
+               <item>
+                  <label>Suffol.</label>
+                  <list>
+                     <item>Benjamin Wright Eſquire, made baronet the 7. of Febr.</item>
+                     <item>Ulick, Earle of Clanrickard, made Marqueſſe of Clan<g ref="char:EOLhyphen"/>rick ard the 21. of February.</item>
+                  </list>
+               </item>
+               <item>
+                  <pb n="12" facs="tcp:40461:8" rendition="simple:additions"/>
+                  <label>Northumb.</label>
+                  <list>
+                     <item>Edward Charleton Gentleman, made baronet the 6. of March.</item>
+                     <item>Robert, Viſcount Cholmundeley, made Baron Chol<g ref="char:EOLhyphen"/>mundeley of Witch Malbunck, in the County Palatine of Cheſter the 1. of September.</item>
+                     <item>Robert, Viſcount Cholmundeley, created Earle of Leim<g ref="char:EOLhyphen"/>ſter in Ireland the 5. of March.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Anno 22. <hi>Caroli Regis.</hi> 1646.</head>
+               <item>
+                  <label>Cambr.</label> Richard Willys made Baronet the 11. of Ianuary.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
